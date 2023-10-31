@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vardhan2097
 - 👀 I’m interested in web-dev and cyber security
 - 🌱 I’m currently working on PHP, Javascript, Postgre Sql, MySql
-- 💞️ I’m learning Angular, Node.js
 - 📫 How to reach me vardhan2097@gmail.com
 
 <!---
